@@ -149,9 +149,9 @@ def generate_data(config):
             modifier_directions (list): contains directions with which modifiers are used (as in 'walk opposite(modifier) left(direction)')
             multipliers (list): contains multiplier commands to be applied
             conjunctions (list): contains conjunction commands to be applied
-            only_modifiers (list): whether to output only datapoints which are produced by modifiers
-            only_multipliers (list): whether to output only datapoints which are produced by multipliers
-            only_conjunctions (list): whether to output only datapoints which are produced by conjunctions
+            only_modifiers (bool): whether to output only datapoints which are produced by modifiers
+            only_multipliers (bool): whether to output only datapoints which are produced by multipliers
+            only_conjunctions (bool): whether to output only datapoints which are produced by conjunctions
             
     Returns:
         list of lists: a dataset generateed from the given parameters
