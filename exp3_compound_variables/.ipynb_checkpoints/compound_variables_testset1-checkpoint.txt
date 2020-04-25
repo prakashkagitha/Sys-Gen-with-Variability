@@ -1,8 +1,0 @@
-IN: jump_0 left left OUT: I_TURN_LEFT I_TURN_LEFT I_JUMP_0
-IN: jump_1 left left OUT: I_TURN_LEFT I_TURN_LEFT I_JUMP_1
-IN: jump_2 left left OUT: I_TURN_LEFT I_TURN_LEFT I_JUMP_2
-IN: jump_3 left left OUT: I_TURN_LEFT I_TURN_LEFT I_JUMP_3
-IN: jump_0 right right OUT: I_TURN_RIGHT I_TURN_RIGHT I_JUMP_0
-IN: jump_1 right right OUT: I_TURN_RIGHT I_TURN_RIGHT I_JUMP_1
-IN: jump_2 right right OUT: I_TURN_RIGHT I_TURN_RIGHT I_JUMP_2
-IN: jump_3 right right OUT: I_TURN_RIGHT I_TURN_RIGHT I_JUMP_3
